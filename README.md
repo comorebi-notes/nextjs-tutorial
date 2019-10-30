@@ -5,4 +5,4 @@ https://nextjs.org/
 https://nextjs.org/learn/basics/getting-started
 
 ### 成果物
-https://next-ongaq.comorebi-notes.now.sh/
+https://nextjs-tutorial.now.sh/
